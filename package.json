@@ -1,0 +1,15 @@
+{
+  "name": "web-authentication",
+  "version": "1.0.0",
+  "description": "This is a project that teaches me on web authentication so i can use it across all my web applications.",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  }
+}
